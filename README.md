@@ -7,6 +7,10 @@
 
 # Histories
 
+## 2018.10.05
+
+ - 1.3: P11-14 Lexer. Support for keywords(Number, let, fn)
+
 ## 2018.10.04
 
  - ディレクトリの整備。src/monkeyを作成
