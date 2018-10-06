@@ -7,6 +7,10 @@
 
 # Histories
 
+## 2018.10.06
+
+ - 1.4: P14-17 Lexer. Support for tokens(MINUS, BANG, ASTERISK, SLASH, LT, GT)
+
 ## 2018.10.05
 
  - 1.3: P11-14 Lexer. Support for keywords(Number, let, fn)
