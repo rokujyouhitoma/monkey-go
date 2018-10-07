@@ -7,6 +7,10 @@
 
 # Histories
 
+## 2018.10.07
+
+ - 1.4: P17-18 Lexer. Support for tokens(TRUE, FALSE, IF, ELSE, RETURN)
+
 ## 2018.10.06
 
  - 1.4: P14-17 Lexer. Support for tokens(MINUS, BANG, ASTERISK, SLASH, LT, GT)
