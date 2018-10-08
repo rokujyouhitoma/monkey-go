@@ -7,6 +7,10 @@
 
 # Histories
 
+## 2018.10.08
+
+ - 1.4: P19-21 Lexer. Support for tokens(EQ, NOT_EQ)
+
 ## 2018.10.07
 
  - 1.4: P17-18 Lexer. Support for tokens(TRUE, FALSE, IF, ELSE, RETURN)
