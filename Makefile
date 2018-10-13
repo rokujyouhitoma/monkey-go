@@ -1,7 +1,5 @@
-GO=go
-
 test:
-	@GO test `go list ./...`
+	go test `go list ./...`
 
 fmt:
 	cd src/ && go fmt ./monkey/*/
