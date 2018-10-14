@@ -7,9 +7,13 @@
 
 # Histories
 
+## 2018.10.14
+
+ - 2.4: P42-44 Parser. Support for errors.
+
 ## 2018.10.13
 
- - 2.4: P29-35 Parser. Support for let
+ - 2.4: P29-35 Parser. Support for let.
  - 2.3: P29-32 AST.
 
 ## 2018.10.11
