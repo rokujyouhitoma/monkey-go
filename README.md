@@ -7,6 +7,10 @@
 
 # Histories
 
+## 2018.10.17
+
+ - 2.6.4 P51-55 Sring() for each statement struct.
+
 ## 2018.10.15
 
  - 2.5: P44-47 Parser. Support for ReturnStatement.
