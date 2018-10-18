@@ -1,4 +1,30 @@
- 
+# 名言もらった
+
+```
+明日死ぬかもしれないから、人生を楽しむほうにフォーカスしたい
+
+by Tasuku Suenaga 2018.10.18 23:07 UTC+9
+```
+
+なお、リポジトリにぶっこむ許可は取ってる。
+
+```
+# サラリーマンしない？って話しかけたら、ニートやなんやら、からーの
+Tasuku Suenaga: 明日死ぬかもしれないから、人生を楽しむほうにフォーカスしたい
+Ike Tohru: おお。末永さんっぽい
+Ike Tohru: ちょっと名言なんで手元のリポジトリにコミットしてよろしいでしょうか？
+Tasuku Suenaga: w どうぞー
+```
+
+LOVE!
+
+## Ref:
+
+ - https://github.com/rokujyouhitoma/cysqlite3/blob/master/tests/test_005_wiser_database.pyx#L1-L16
+ - https://github.com/rokujyouhitoma/cywiser/blob/master/README.md
+
+----
+
  - oreilly-978-4-87311-822-2e.pdf
 
 # Requirements
