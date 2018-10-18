@@ -7,6 +7,10 @@
 
 # Histories
 
+## 2018.10.18
+
+ - 2.6.5 P55-56 Parser. prefix parsing function and infix parsing function
+
 ## 2018.10.17
 
  - 2.6.4 P51-55 Sring() for each statement struct.
