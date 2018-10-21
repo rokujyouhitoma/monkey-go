@@ -33,6 +33,10 @@ LOVE!
 
 # Histories
 
+## 2018.10.21
+
+ - 2.6.6 P56-60 Parser. Support for IdentifierExpression.
+
 ## 2018.10.18
 
  - 2.6.5 P55-56 Parser. prefix parsing function and infix parsing function
