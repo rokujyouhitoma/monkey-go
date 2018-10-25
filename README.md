@@ -33,6 +33,10 @@ LOVE!
 
 # Histories
 
+## 2018.10.25
+
+ - 2.7 P75-85 Parser.
+
 ## 2018.10.24
 
  - 2.6.9 P68-75 Parser. Support for InfixExpression. 
