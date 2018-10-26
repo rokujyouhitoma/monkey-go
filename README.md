@@ -33,6 +33,11 @@ LOVE!
 
 # Histories
 
+## 2018.10.26
+
+ - 2.8 P85-87 Helper functions for test.
+ - 2.8.1 P87-91 Parser. Support for BooleanLiteral.
+
 ## 2018.10.25
 
  - 2.7 P75-85 Parser.
