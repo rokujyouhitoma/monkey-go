@@ -33,6 +33,10 @@ LOVE!
 
 # Histories
 
+## 2018.10.27
+
+ - 2.8.2 P91-93 Parser. Support for GroupedExpression.
+
 ## 2018.10.26
 
  - 2.8 P85-87 Helper functions for test.
