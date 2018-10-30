@@ -33,6 +33,14 @@ LOVE!
 
 # Histories
 
+## 2018.10.30
+
+ - 2.8.5 P104-109 Parser. Support for CallExpression.
+
+## 2018.10.29
+
+ - 2.8.4 P99-104 Parser. Support for FunctionLiteral.
+
 ## 2018.10.28
 
  - 2.8.3 P93-99 Parser. Support for IfExpression.
