@@ -33,6 +33,10 @@ LOVE!
 
 # Histories
 
+## 2018.11.1
+
+ - 2.8.6 P109-111 Fixed TODO.
+
 ## 2018.10.30
 
  - 2.8.5 P104-109 Parser. Support for CallExpression.
