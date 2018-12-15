@@ -33,6 +33,10 @@ LOVE!
 
 # Histories
 
+## 2018.12.15
+
+ - 3.4.1 P121 Object System fundamentals.
+
 ## 2018.11.4
 
  - 2.9 P112-114 REPL.
