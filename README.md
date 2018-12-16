@@ -33,6 +33,10 @@ LOVE!
 
 # Histories
 
+## 2018.12.16
+
+ - 3.4.2 P122 Integer type.
+
 ## 2018.12.15
 
  - 3.4.1 P121 Object System fundamentals.
